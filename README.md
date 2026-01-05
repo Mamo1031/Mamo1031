@@ -2,7 +2,7 @@
 
 I am a student of JEMARO (Japan-Europe Master on Advanced Robotics) and I am dedicating my life to AI🧠 and Robot🤖.
 
-Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) and [Linkedin](www.linkedin.com/in/mamoru-ota) 📫😄
+Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) and [Linkedin](https://www.linkedin.com/in/mamoru-ota/) 📫😄
 
 #### Career
 
