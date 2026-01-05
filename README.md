@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi, I am [Mamoru Ota](https://github.com/Mamo1031) 👋
 
-<!--
-**Mamo1031/Mamo1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of JEMARO (Japan-Europe Master on Advanced Robotics) and I am dedicating my life to AI🧠 and Robot🤖.
 
-Here are some ideas to get you started:
+Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) and [Linkedin](www.linkedin.com/in/mamoru-ota) 📫😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Career
+
+- JEMARO (Japan-Europe Master on Advanced Robotics), 2024.09 - 2026.08
+- M.E. in Electrical and Electronic Engineering, Keio University, 2025.07 - 2026.08
+- M.E. in Robotics Engineering, Università degli Studi di Genova, 2024.09 - 2025.07
+- Machine Learning Engineer, looking up Co., Ltd., 2024.03 - 2024.09
+- B.E. in Electrical and Information Engineering, Keio University, 2020.04 - 2024.03
+
+#### Publication
+
+- [ゲート機構を利用した視聴覚統合に基づくロボットの動的物体挿入タスク学習, RSJ2024](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402224111997952)
+
+#### Award
+
+- [Fujiwara Prize, 2024](https://www.st.keio.ac.jp/news/stu/20240327_01.html)
+- [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
+- [AMD Open Robotics Hackathon: 3rd🥉, 2025](https://amdroboticshackathon.datamonsters.com/)
+
+#### Statistics
+
+<p align="center">
+  <a href="https://github.com/Mamo1031">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mamo1031&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Mamo1031">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mamo1031&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
