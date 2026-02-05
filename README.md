@@ -22,6 +22,12 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 - [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
 - [AMD Open Robotics Hackathon: 3rd🥉, 2025](https://amdroboticshackathon.datamonsters.com/)
 
+#### Fellowship & Scholarship
+
+- JASSO (Japan Student Services Organization), 2024.09 - 2026.09
+- Yoshiaki Ishii Scholarship, 2025
+- International Human Resource Development Fund, 2025
+
 #### Statistics
 
 <p align="center">
