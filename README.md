@@ -18,9 +18,9 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 
 #### Award
 
-- [Fujiwara Prize, 2024](https://www.st.keio.ac.jp/news/stu/20240327_01.html)
-- [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
 - [AMD Open Robotics Hackathon: 3rd🥉, 2025](https://amdroboticshackathon.datamonsters.com/)
+- [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
+- [Fujiwara Prize, 2024](https://www.st.keio.ac.jp/news/stu/20240327_01.html)
 
 #### Fellowship & Scholarship
 
