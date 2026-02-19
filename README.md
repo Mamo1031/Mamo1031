@@ -24,7 +24,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 
 #### Fellowship & Scholarship
 
-- Yamada Osamitsu Foundation, 37th Scholar, 2026.03 - 2027.02
+- Yamada Osamitsu Foundation, 37th Scholar, 2026.04 - 2027.03
 - JASSO (Japan Student Services Organization), 2024.09 - 2026.09
 - Yoshiaki Ishii Scholarship, 2025
 - International Human Resource Development Fund, 2025
