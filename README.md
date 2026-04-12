@@ -24,6 +24,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 
 #### Fellowship & Scholarship
 
+- NEDO NEP Pioneering Course, 2026.04 - 2027.03 <!-- - [NEDO NEP Pioneering Course](https:), 2026.04 - 2027.03 -->
 - Yamada Osamitsu Foundation, 37th Scholar, 2026.04 - 2027.03
 - JASSO (Japan Student Services Organization), 2024.09 - 2026.09
 - Yoshiaki Ishii Scholarship, 2025
