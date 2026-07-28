@@ -6,8 +6,9 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 
 #### Career
 
-- JEMARO (Japan-Europe Master on Advanced Robotics), 2024.09 - 2026.08
-- M.E. in Electrical and Electronic Engineering, Keio University, 2025.07 - 2026.08
+- Chief Technology Officer (CTO), Elric Inc., 2026.06 - Present
+- JEMARO (Japan-Europe Master on Advanced Robotics), 2024.09 - 2026.09
+- M.E. in Electrical and Electronic Engineering, Keio University, 2025.07 - 2026.09
 - M.E. in Robotics Engineering, Università degli Studi di Genova, 2024.09 - 2025.07
 - Machine Learning Engineer, looking up Co., Ltd., 2024.03 - 2024.09
 - B.E. in Electrical and Information Engineering, Keio University, 2020.04 - 2024.03
