@@ -1,11 +1,13 @@
 ### Hi, I am [Mamoru Ota](https://github.com/Mamo1031) 👋
 
-I am a student of JEMARO (Japan-Europe Master on Advanced Robotics) and I am dedicating my life to AI🧠 and Robot🤖.
+I am a Ph.D. student at Keio University, working on multimodal world models for robots, and the CTO of Elric Inc. 
+I am dedicating my life to AI🧠 and Robot🤖.
 
-Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) and [Linkedin](https://www.linkedin.com/in/mamoru-ota/) 📫😄
+Please feel free to reach out to me [X](https://x.com/mamo_sasuke) and [Linkedin](https://www.linkedin.com/in/mamoru-ota/) 📫😄
 
 #### Career
 
+- Ph.D. in Electrical and Electronic Engineering, Keio University, 2026.09 - Present
 - Chief Technology Officer (CTO), Elric Inc., 2026.06 - Present
 - JEMARO (Japan-Europe Master on Advanced Robotics), 2024.09 - 2026.09
 - M.E. in Electrical and Electronic Engineering, Keio University, 2025.07 - 2026.09
@@ -22,7 +24,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/mamo_sasuke) a
 
 - [AMD Open Robotics Hackathon: 3rd🥉, 2025](https://amdroboticshackathon.datamonsters.com/)
 - [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
-- [Fujiwara Prize, 2024](https://www.st.keio.ac.jp/news/stu/20240327_01.html)
+- [Fujiwara Prize, 2024](https://www.keio.ac.jp/ja/st/news/20240327-1/)
 
 #### Fellowship & Scholarship
 
