@@ -17,6 +17,10 @@ Please feel free to reach out to me [X](https://x.com/mamo_sasuke) and [Linkedin
 
 #### Publication
 
+- Contrastive Multimodal World Model for Zero-Shot Granular Material Manipulation, Submitted 2026
+- Multimodal World Model with Multiple Timescales, ICDL2026
+- 対照学習を用いたマルチモーダル世界モデルに基づく粒状物体の注ぎ操作, RSJ2026
+- 実ロボットの物体操作データで学習した異なる世界モデルの長期予測性能比較, RSJ2026
 - [時間的階層性を持つマルチモーダル世界モデル, JSAI2026](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_1E3OS39a02/_article/-char/ja)
 - [ゲート機構を利用した視聴覚統合に基づくロボットの動的物体挿入タスク学習, RSJ2024](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402224111997952)
 
