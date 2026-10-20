@@ -30,8 +30,9 @@ Please feel free to reach out to me [X](https://x.com/mamo_sasuke) and [Linkedin
 - [RAMI (Robotics for Asset Maintenance and Inspection): 2nd🥈, Best Rookie Team Award, 2025](https://rami2025.tilda.ws/)
 - [Fujiwara Prize, 2024](https://www.keio.ac.jp/ja/st/news/20240327-1/)
 
-#### Fellowship & Scholarship
+#### Grant, Fellowship & Scholarship
 
+- [TRENG Support, Research Grant, 2026](https://www.toray-eng.co.jp/news/2026/20261015.html)
 - Kuma Foundation, 10th Scholar, 2026.04 - 2027.03
 - NEDO NEP Pioneering Course, 2026.04 - 2027.03
 - Yamada Osamitsu Foundation, 37th Scholar, 2026.04 - 2027.03
