@@ -33,7 +33,7 @@ Please feel free to reach out to me [X](https://x.com/mamo_sasuke) and [Linkedin
 #### Grant, Fellowship & Scholarship
 
 - [TRENG Support, Research Grant, 2026](https://www.toray-eng.co.jp/news/2026/20261015.html)
-- Kuma Foundation, 10th Scholar, 2026.04 - 2027.03
+- [Kuma Foundation, 10th Scholar](https://kuma-foundation.org/student/mamoru-ota/), 2026.04 - 2027.03
 - [NEDO NEP Pioneering Course](https://nep.nedo.go.jp/selected/8ae62037-8e9c-42a8-a7e3-e434d5d7f8b9), 2026.04 - 2027.03
 - Yamada Osamitsu Foundation, 37th Scholar, 2026.04 - 2027.03
 - JASSO (Japan Student Services Organization), 2024.09 - 2026.09
